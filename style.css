@@ -1,0 +1,19 @@
+html {
+  font-family: sans-serif;
+  color: white;
+}
+
+body {
+  max-width: 80vw;
+  max-height: 100vh;
+  margin: 0 auto;
+  background-color: black;
+  margin: 0 auto;
+  display: center;
+  text-align: center;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
